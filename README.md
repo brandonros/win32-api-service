@@ -7,7 +7,7 @@ Request
 
 ```json
 {
-  "path": ""C:\\Windows\\System32\\dsdevice-original.dll""
+  "path": "C:\\Windows\\System32\\dsdevice-original.dll"
 }
 ```
 
@@ -47,4 +47,4 @@ Response
 {
   "result": 1
 }
-```json
+```
